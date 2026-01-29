@@ -1,5 +1,10 @@
 # ai-eslint-config
 
+[![npm version](https://img.shields.io/npm/v/ai-eslint-config.svg)](https://www.npmjs.com/package/ai-eslint-config)
+[![npm downloads](https://img.shields.io/npm/dm/ai-eslint-config.svg)](https://www.npmjs.com/package/ai-eslint-config)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 Generate an ESLint config that matches your codebase's existing style. No more arguing about semicolons.
 
 ## Install
