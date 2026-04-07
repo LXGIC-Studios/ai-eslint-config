@@ -1,5 +1,5 @@
 {
-  "name": "ai-eslint-config",
+  "name": "@lxgicstudios/ai-eslint-config",
   "version": "1.0.0",
   "description": "AI-powered ESLint config generator - custom rules based on codebase analysis with GPT",
   "main": "dist/index.js",
