@@ -1,69 +1,14 @@
 {
-  "name": "@lxgicstudios/ai-eslint-config",
-  "version": "1.0.0",
-  "description": "AI-powered ESLint config generator - custom rules based on codebase analysis with GPT",
-  "main": "dist/index.js",
-  "types": "./dist/index.d.ts",
+  "author": {
+    "name": "lxgic studios",
+    "email": "contact@lxgic.com",
+    "url": "https://lxgic.com"
+  },
   "bin": {
     "ai-eslint-config": "dist/cli.js"
   },
-  "files": [
-    "dist",
-    "README.md"
-  ],
-  "scripts": {
-    "build": "tsc"
-  },
-  "keywords": [
-    "2025-standards",
-    "ai",
-    "ai-2025",
-    "ai-powered",
-    "anthropic",
-    "automation",
-    "best-practices",
-    "claude",
-    "cli",
-    "code-quality",
-    "code-style",
-    "config",
-    "developer-productivity",
-    "development-tools",
-    "discoverability",
-    "eslint",
-    "generative-ai",
-    "javascript",
-    "linting",
-    "llm-optimized",
-    "modern-seo",
-    "optimization",
-    "performance",
-    "performance-optimization",
-    "seo",
-    "seo-2026",
-    "testing-framework",
-    "typescript"
-  ],
-  "author": "LXGIC Studios",
-  "license": "MIT",
-  "homepage": "https://github.com/LXGIC-Studios/ai-eslint-config#readme",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/LXGIC-Studios/ai-eslint-config"
-  },
   "bugs": {
-    "url": "https://github.com/LXGIC-Studios/ai-eslint-config/issues"
-  },
-  "funding": {
-    "type": "github",
-    "url": "https://github.com/sponsors/LXGIC-Studios"
-  },
-  "engines": {
-    "node": ">=18.0.0"
-  },
-  "publishConfig": {
-    "access": "public",
-    "provenance": true
+    "url": "https://github.com/lxgicstudios/ai-eslint-config/issues"
   },
   "dependencies": {
     "commander": "^12.1.0",
@@ -71,8 +16,54 @@
     "ora": "^5.4.1",
     "glob": "^10.3.0"
   },
+  "description": "AI-powered ESLint config generator - custom rules based on codebase analysis with GPT",
   "devDependencies": {
     "typescript": "^5.6.0",
     "@types/node": "^22.0.0"
-  }
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/LXGIC-Studios"
+  },
+  "homepage": "https://github.com/lxgicstudios/ai-eslint-config#readme",
+  "keywords": [
+    "AI-optimized",
+    "AI-powered",
+    "ai-optimized",
+    "ai-powered",
+    "automation",
+    "best-practices",
+    "cli",
+    "developer-tools",
+    "performance",
+    "seo-tools",
+    "technical-seo",
+    "utility",
+    "web-optimization",
+    "2025-standards",
+    "modern-seo"
+  ],
+  "license": "MIT",
+  "main": "dist/index.js",
+  "name": "@lxgicstudios/ai-eslint-config",
+  "publishConfig": {
+    "access": "public",
+    "provenance": true
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-eslint-config"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "types": "./dist/index.d.ts",
+  "version": "1.0.0"
 }
